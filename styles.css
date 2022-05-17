@@ -8,6 +8,9 @@ body {
 }
 
 .postcard{
+    background: white;
     margin: auto;
+    width: 400px;
+    height: 300px;
 }
 
