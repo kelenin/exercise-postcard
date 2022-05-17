@@ -34,3 +34,19 @@ div{
 {
     display: flex;
 }
+
+.body-left,.body-right
+{
+    padding: 25px 50px 75px;
+}
+
+div.input {
+    border: none;
+    border-bottom: 50ch;
+    color: grey
+}
+
+p {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
